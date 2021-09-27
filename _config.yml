@@ -29,4 +29,6 @@ google_analytics: ''
 disqus:
   shortname: ''
 
+
+# Build settings
 theme: jekyll-theme-hydeout
