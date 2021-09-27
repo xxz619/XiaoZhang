@@ -6,8 +6,8 @@ description: The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> the
 url: 
 baseurl:
 author:
-  name: Andrew Fong
-  url: https://twitter.com/fongandrewc
+  name:
+  url: 
 paginate: 5
 exclude:
 - README.md
@@ -18,7 +18,7 @@ plugins:
 - jekyll-paginate
 sidebar_home_link: true
 theme_colors:
-  sidebar-bg-color: "#515151"
+  sidebar-bg-color: "#000000"
   sidebar-fg-color: "#FFFFFF"
   link-color: "#000000"
 sidebar-sticky: true
